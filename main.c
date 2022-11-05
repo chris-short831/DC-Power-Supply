@@ -1,8 +1,5 @@
 /*
-Developer Name(s): Christopher Short and Ryan Iglesias
-Class: EE 329 Microcontroller-Based Systems Design
-Professor: John Penvenne
-Assignment: A5-DAC
+Developer Name: Christopher Short 
 Date: 09/29/2022
 MCU: STM32 L4A6ZGT6U
 Peripherals: Spark Fun 3x4 COM-14662 Keypad, MCP4921 Digital-Analog-Converter
