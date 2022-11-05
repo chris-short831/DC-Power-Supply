@@ -1,8 +1,5 @@
 /*
-Developer Name: Christopher Short, Ryan Iglesias
-Class: EE 329 Microcontroller-Based Systems Design
-Professor: John Penvenne
-Assignment: A5-DAC
+Developer Name: Christopher Short
 Date: 09/29/2022
 Overview: This code defines the DAC functions used in main.c. The operation of each
 function is described therein.
